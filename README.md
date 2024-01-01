@@ -1,6 +1,9 @@
 Space Fight Game:
 
-    Welcome to Space Fight, a two-player space-themed shooting game developed using Pygame. Engage in an epic battle between two spaceships, one yellow and the other red. The objective is to shoot down your opponent's spaceship while avoiding their bullets. The first spaceship to reach zero points loses the game.
+    Welcome to Space Fight, a two-player space-themed shooting game developed using Pygame. 
+    Engage in an epic battle between two spaceships, one yellow and the other red. 
+    The objective is to shoot down your opponent's spaceship while avoiding their bullets. 
+    The first spaceship to reach zero points loses the game.
     
     Game Controls:
         *Yellow Spaceship:
